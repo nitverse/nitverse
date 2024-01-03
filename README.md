@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Web and App Development(React Native).
 - 🌱 I’m currently learning NextJs-14 , t3-Stack.
 - 🤝 I’m looking to collaborate on Nextjs Projects.
-- 📫 How to reach me email nmakwana496@gmail.com@gmail.com
+- 📫 How to reach me email nmakwana496@gmail.com
 
 ###
 
