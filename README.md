@@ -79,7 +79,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/nitverse/nitverse/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/nitverse/nitverse/output/snake.svg" height="200" alt="Snake animation" />
 
 ###
 
