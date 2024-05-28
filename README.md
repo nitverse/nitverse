@@ -76,12 +76,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/nitverse/nitverse/output/snake.svg" height="200" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/nitverse/count.svg?"  />
 </div>
