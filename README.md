@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nitant ∞
+- 👋 Hi, I’m Nitant ∞.
 - 👀 I’m interested in Full Stack Web and App Development(React Native).
 - 🌱 I’m currently learning NextJs, DevOps.
 - 🤝 I’m looking to collaborate on Nextjs Projects.
